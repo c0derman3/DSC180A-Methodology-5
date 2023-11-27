@@ -1,12 +1,12 @@
 # DSC 180A Methodology Assignment 5 - Part 2
 ## Christian DerManuelian (cdermanuelian@ucsd.edu) A16677966
 
-Mentor: Rajesh Gupta
+Mentor: Rajesh Gupta\
 Section: B06
 
 
 
-# Questions\
+# Questions
 **1.  What is the most interesting topic covered in your domain this quarter?**
 Just learning about the idea of accelerating machine learning algorithms was very interesting. This is the first time I have optimized an ML model without tweaking the model itself, but by understanding how the hardware actually processes the procedures.\
 **2.  Describe a potential investigation you would like to pursue for your Quarter 2 Project.**\
