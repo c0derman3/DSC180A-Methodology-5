@@ -7,7 +7,7 @@ Section: B06
 
 
 # Questions
-**1.  What is the most interesting topic covered in your domain this quarter?**
+**1.  What is the most interesting topic covered in your domain this quarter?**\
 Just learning about the idea of accelerating machine learning algorithms was very interesting. This is the first time I have optimized an ML model without tweaking the model itself, but by understanding how the hardware actually processes the procedures.\
 **2.  Describe a potential investigation you would like to pursue for your Quarter 2 Project.**\
 We have been working on accelerating specific models, but I wonder if there is a process that could work for all types of models. That could different variations of the architectures of the same models, or for completely different network frameworks.\
